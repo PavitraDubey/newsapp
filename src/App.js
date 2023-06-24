@@ -14,7 +14,8 @@ const App =()=> {
   const pagesize=12
   const[pro,setPro]=useState(0);
   const[country,setCountry]=useState("us");
-  const key="1f6864ea2d0344928aebadadce6c7652";
+  const key=process.env.REACT_APP_API_KEY;
+  console.log(key);
   const changeCountry=(x)=>{
     setCountry(x);
   }
