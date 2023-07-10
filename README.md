@@ -2,6 +2,8 @@ https://github.com/PavitraDubey/newsapp/assets/135315956/6403d428-1a2c-4c51-87a5
 video 1
 https://github.com/PavitraDubey/newsapp/assets/135315956/680345da-ffda-4e29-b707-696a6aec3eed
 video 2
+https://github.com/PavitraDubey/newsapp/assets/135315956/8bbf82ca-b8aa-4748-8aec-9a8be587616d
+video 3
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
